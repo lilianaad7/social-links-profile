@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-Grey-900);
+  background-color: var(--color-grey-900);
   padding: 1.5rem;
 }
 
